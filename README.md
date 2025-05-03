@@ -1,5 +1,5 @@
 # ECON318_FinalProject
-# The Causal Effect of High vs. Low Interest Rates on Loan Default Probability
+# How does rising interest rates affect borrowers' probability of loan default: A Global Analysis Using PSM and subsequent economic Growth in Kazakhstan
 
 ![Interest Rate Analysis](https://img.shields.io/badge/Analysis-Propensity%20Score%20Matching-blue)
 ![Language](https://img.shields.io/badge/Language-R-blueviolet)
